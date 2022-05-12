@@ -4,7 +4,7 @@ Spring Boot-version:2.4.2
 
 Spring Cloud alibaba-version:2021.1
 
-RestTemplate调用服务时，方法路径正确，却请求页面404问题：
+RestTemplate调用服务时，方法路径正确，却请求页面500问题：
 
 高版本的Spring Cloud(2020)不再使用netflix，也就没有了netflix自带的ribbon
 
