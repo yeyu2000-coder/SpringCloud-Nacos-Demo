@@ -1,0 +1,15 @@
+# 应用名称
+spring:
+  application:
+    name: provider
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      discovery:
+        cluster-name: DG
+
+# 端口号
+server:
+  port: 8001
+
+
